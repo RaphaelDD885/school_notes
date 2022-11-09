@@ -1,0 +1,255 @@
+<?xml version="1.0"?>
+<minder version="1.14.0" parent-etag="3098277646" etag="71870154">
+  <theme name="dark" label="Dark" index="7"/>
+  <styles>
+    <style level="0" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-876.56601914259772" y="-150.6695736563272" scale="0.92395181235626678"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="1615.0304495573289" posy="561.28561809829216" width="135" height="46" side="left" fold="false" treesize="644" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1629.0304495573289" posy="575.28561809829216" maxwidth="200">
+        <text data="Zeitgestaltung"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="1" posx="1850.0304495573271" posy="262.28561809829216" width="215" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1864.0304495573271" posy="276.28561809829216" maxwidth="200">
+            <text data="Erz&#xE4;hltempo = Verh&#xE4;ltnis zwischen Erz&#xE4;hlzeit und erz&#xE4;hlter Zeit"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="5" posx="1850.0304495573271" posy="344.28561809829216" width="215" height="118" side="right" fold="false" treesize="118" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1864.0304495573271" posy="358.28561809829216" maxwidth="200">
+            <text data="Zeitdehnung = Das Geschehen wird gedehnt, verl&#xE4;uft also quasi in Zeitlupe (Erz&#xE4;hlzeit &gt; erz&#xE4;hlte Zeit)"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="6" posx="1850.0304495573271" posy="462.28561809829216" width="228" height="136" side="right" fold="false" treesize="136" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1864.0304495573271" posy="476.28561809829216" maxwidth="200">
+            <text data="Zeitraffung = Das Geschehen wird gerafft, l&#xE4;ngere Zeitr&#xE4;ume werden zusammengefasst. Extremform: Zeitsprung  (Erz&#xE4;hlzeit &lt; erz&#xE4;hlte Zeit)"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="7" posx="1850.0304495573271" posy="598.28561809829205" width="204" height="82" side="right" fold="false" treesize="82" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1864.0304495573271" posy="612.28561809829205" maxwidth="200">
+            <text data="Zeitdeckung = Er&#xE4;hlzeit und ert&#xE4;hlte Zeit sind identisch."/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="8" posx="1850.0304495573271" posy="680.28561809829205" width="227" height="226" side="right" fold="false" treesize="226" color="#3689e6" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1864.0304495573271" posy="694.28561809829205" maxwidth="200">
+            <text data="Chronologie (R&#xFC;ckblenden / Vorausdeutungen) = der Erz&#xE4;hler kann die Handlung chronologisch wiedergeben oder in der Zeit umherspringen, indem er zum Beispiel R&#xFC;ckblenden (Flashbacks) einbaut oder Ereignisse vorwegnimmt"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="4" posx="863.21482754381225" posy="777.61648539808652" width="78" height="46" side="left" fold="false" treesize="190" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="877.21482754381225" posy="791.61648539808652" maxwidth="200">
+        <text data="Motive"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="9" posx="538.21482754381293" posy="705.61648539808652" width="225" height="190" side="left" fold="false" treesize="190" color="#7a36b1" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="552.21482754381293" posy="719.61648539808652" maxwidth="200">
+            <text data="Leitmotiv = Wiederkehrender Baustein (einpr&#xE4;gsame Aussage/Wendung, Sprachbild, Ort usw.)eines literarischen Textes, der duch sein mehrfaches erscheinen eine besondere Bedeutung erh&#xE4;lt"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="11" posx="1306.9605503925968" posy="499.49379240632652" width="58" height="46" side="left" fold="false" treesize="46" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1320.9605503925968" posy="513.49379240632652" maxwidth="200">
+        <text data="Epik"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+    <node id="13" posx="1321.3537792396887" posy="857.53953781588064" width="81" height="46" side="left" fold="false" treesize="254" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1335.3537792396887" posy="871.53953781588064" maxwidth="200">
+        <text data="Figuren"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="20" posx="1009.3537792396892" posy="830.53953781588064" width="212" height="100" side="left" fold="false" treesize="100" color="#68b723" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1023.3537792396892" posy="844.53953781588064" maxwidth="200">
+            <text data="indirekt charakterisiert = die Figur wird durch ihre Art zu reden und ihr verhalten charakterisiert"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="18" posx="1502.3537792396885" posy="753.53953781588064" width="217" height="100" side="right" fold="false" treesize="100" color="#f37329" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1516.3537792396885" posy="767.53953781588064" maxwidth="200">
+            <text data="Hauptfigur = Figur um die sich die Handlung dreht / &#xFC;ber die der Leser besonders viel erf&#xE4;hrt"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="19" posx="1502.3537792396885" posy="853.53953781588064" width="225" height="154" side="right" fold="false" treesize="154" color="#f9c440" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1516.3537792396885" posy="867.53953781588064" maxwidth="200">
+            <text data="direkt charakterisiert = Figur, die durch Textstellen charakterisiert wird, in denen sie oder eine andere Figur / der Erz&#xE4;hler direkte Aussagen &#xFC;ber deren Charakter macht"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="14" posx="1609.1167718532743" posy="150.68926542443188" width="97" height="46" side="left" fold="false" treesize="146" layout="Horizontal" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="1623.1167718532743" posy="164.68926542443188" maxwidth="200">
+        <text data="Handlung"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="16" posx="1806.1167718532738" posy="100.68926542443188" width="174" height="64" side="right" fold="false" treesize="64" color="#bbbbbb" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1820.1167718532738" posy="114.68926542443188" maxwidth="200">
+            <text data="&#xE4;u&#xDF;ere Handlung= Aktionen einer Figur"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="17" posx="1806.1167718532738" posy="164.68926542443188" width="201" height="82" side="right" fold="false" treesize="82" color="#c6262e" colorroot="false" layout="Horizontal" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1820.1167718532738" posy="178.68926542443188" maxwidth="200">
+            <text data="innere Handlung = Gedanken / Gef&#xFC;hle der Figur"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+      </nodes>
+    </node>
+    <node id="15" posx="488.9932396208269" posy="317.81742992707308" width="126" height="46" side="left" fold="false" treesize="608.00942133520175" layout="Manual" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="502.9932396208269" posy="331.81742992707308" maxwidth="200">
+        <text data="Erz&#xE4;hltechnik"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="24" posx="284.07037740088458" posy="274.68248562157572" width="169" height="46" side="left" fold="false" treesize="278.31873629708411" color="#bbbbbb" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="298.07037740088458" posy="288.68248562157572" maxwidth="200">
+            <text data="Darbietungsformen"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="29" posx="73.879305737674713" posy="161.5186463932734" width="214" height="100" side="left" fold="false" treesize="100" color="#bbbbbb" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="87.879305737674713" posy="175.5186463932734" maxwidth="200">
+                <text data="Figurenrede = Widergabe des Redens der Figuren, entweder direkt oder indirekt"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="30" posx="0" posy="276.23750143214755" width="223" height="82" side="left" fold="false" treesize="82" color="#bbbbbb" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="14" posy="290.23750143214755" maxwidth="200">
+                <text data="Erz&#xE4;hlerkommentar = Erz&#xE4;hler sagt seine eigene Meinung zur Handlung"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="31" posx="5.5641126201289808" posy="375.83738269035774" width="221" height="64" side="left" fold="false" treesize="64" color="#bbbbbb" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="19.564112620128981" posy="389.83738269035774" maxwidth="200">
+                <text data="Erz&#xE4;hlerbericht = Erz&#xE4;hler stellt das Geschehen dar"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="21" posx="719.35554061154653" posy="75.97559397788558" width="228" height="154" side="right" fold="false" treesize="267.00000000000006" color="#3689e6" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="733.35554061154653" posy="89.97559397788558" maxwidth="200">
+            <text data="Der Erz&#xE4;hler = im epischen Text ein Charakter, der nicht mit dem Author gleichzusetzen ist, sondern erfunden wurde, um die Geschichte zu erz&#xE4;hlen"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="25" posx="1047.3555406115474" posy="106.97559397788558" width="211" height="100" side="right" fold="false" treesize="100" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1061.3555406115474" posy="120.97559397788558" maxwidth="200">
+                <text data="Ich-Erz&#xE4;hler = Erscheint als Teilnehmer in der Handlung und erz&#xE4;hlt sie gleichzeitig"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="26" posx="1047.3555406115474" posy="206.97559397788558" width="215" height="136" side="right" fold="false" treesize="136.00000000000006" color="#3689e6" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1061.3555406115474" posy="220.97559397788558" maxwidth="200">
+                <text data="Sie-/Er-Erz&#xE4;hler = tritt als Figur in den Hintergrund und ist am Geschehen unbeteiligt. Erz&#xE4;hlt von allen Figuren in der Er- bzw. Sie-Form"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="23" posx="710.75020237959075" posy="463.92586671971117" width="143" height="46" side="right" fold="false" treesize="220.05914859337634" color="#715344" colorroot="false" layout="Manual" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="724.75020237959075" posy="477.92586671971117" maxwidth="200">
+            <text data="Erz&#xE4;hlverhalten"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="28" posx="410.0084202156454" posy="511.98501531308739" width="224" height="172" side="left" fold="false" treesize="172" color="#715344" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="424.0084202156454" posy="525.98501531308739" maxwidth="200">
+                <text data="Personales Erz&#xE4;hlerverhalten = Erz&#xE4;hler erz&#xE4;hlt aus Sicht einer Figur oder wechselt die Perspektive zwischen Figuren, bleibt allerdings an das Wissen dieser Figur gebunden"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="27" posx="949.8924787905321" posy="467.1593045387699" width="227" height="136" side="right" fold="false" treesize="136" color="#715344" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="963.8924787905321" posy="481.1593045387699" maxwidth="200">
+                <text data="Auktoriales Erz&#xE4;hlverhalten = Au&#xDF;erhalb der Handlung stehend, kennt alle Figuren und deren Gedanken/Gef&#xFC;hle"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <connections>
+    <connection from_id="11" to_id="4" drag_x="1119.0876889682081" drag_y="661.55513890220618">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="11" to_id="0" drag_x="1509.2454999749675" drag_y="553.38970525230889">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="11" to_id="15" drag_x="943.97689500671527" drag_y="431.6556111667004">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="11" to_id="14" drag_x="1496.7886611229396" drag_y="348.09152891537957">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title></title>
+      <note></note>
+    </connection>
+    <connection from_id="11" to_id="13" drag_x="1348.9071648161457" drag_y="701.5166651111042">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title></title>
+      <note></note>
+    </connection>
+  </connections>
+  <stickers/>
+</minder>

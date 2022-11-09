@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<minder version="1.14.0" parent-etag="1481428289" etag="1771769746">
+  <theme name="dark" label="Dark" index="6"/>
+  <styles>
+    <style level="0" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="1" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="2" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="3" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="4" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="5" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="6" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="7" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="8" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="9" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+    <style level="10" isset="false" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+  </styles>
+  <drawarea x="-428.99999999999989" y="-85.5" scale="1"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="881.50000000000023" posy="462.50000000000011" width="157" height="76" side="left" fold="false" treesize="605.53906249999943" layout="Manual" sticker="conference_call" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+      <nodename posx="949.50000000000023" posy="491.50000000000011" maxwidth="200">
+        <text data="Sch&#xFC;lerrat"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="9" posx="315.66796874999977" posy="155.35156250000011" width="205" height="76" side="left" fold="false" treesize="76" color="#715344" colorroot="false" layout="Manual" sticker="businessman" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="5" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="5" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="383.66796874999977" posy="184.35156250000011" maxwidth="200">
+            <text data="Vertrauenslehrer"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="6" posx="525.84375" posy="609.30078124999955" width="159" height="76" side="left" fold="false" treesize="76" color="#3689e6" colorroot="false" layout="Manual" sticker="businessman" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="593.84375" posy="638.30078124999955" maxwidth="200">
+            <text data="Schulleiter"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="7" posx="1439.8984374999998" posy="331.99218750000011" width="217" height="76" side="right" fold="false" treesize="76" color="#7a36b1" colorroot="false" layout="Manual" sticker="collaboration" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1507.8984374999998" posy="351.99218750000011" maxwidth="200">
+            <text data="Sch&#xFC;lersprecher + Stellvertreter"/>
+          </nodename>
+          <nodenote></nodenote>
+        </node>
+        <node id="4" posx="1108.3359374999998" posy="684.89062499999955" width="279" height="76" side="right" fold="false" treesize="76" color="#f9c440" colorroot="false" layout="Manual" sticker="collaboration" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+          <nodename posx="1176.3359374999998" posy="704.89062499999955" maxwidth="200">
+            <text data="Klassensprecher + Stellvertreter aller Klassen"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="8" posx="1609.94921875" posy="708.44921874999955" width="117" height="46" side="right" fold="false" treesize="46" color="#f9c440" colorroot="false" layout="Manual" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true"/>
+              <nodename posx="1623.94921875" posy="722.44921874999955" maxwidth="200">
+                <text data="Alle Klassen"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+  <groups/>
+  <connections>
+    <connection from_id="0" to_id="7" drag_x="1268.30859375" drag_y="392.59374999999955" sticker="approval">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>w&#xE4;hlt</title>
+      <note></note>
+    </connection>
+    <connection from_id="4" to_id="0" drag_x="1107.8984375" drag_y="620.00781249999955" sticker="conference_call">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>bilden</title>
+      <note></note>
+    </connection>
+    <connection from_id="8" to_id="4" drag_x="1467.787109375" drag_y="730.298828125" sticker="approval">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>W&#xE4;hlen</title>
+      <note></note>
+    </connection>
+    <connection from_id="0" to_id="6" drag_x="755.67187500000034" drag_y="558.90039062499955" sticker="comments">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>Auskunfts- und Beschwerderecht</title>
+      <note></note>
+    </connection>
+    <connection from_id="9" to_id="0" drag_x="671.55859375" drag_y="342.076171875" sticker="faq">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>Assistiert Sch&#xFC;lerrat bei Konflikten mit Schulleitung oder Schulbeh&#xF6;rde, ber&#xE4;t bei Entscheidungen</title>
+      <note></note>
+    </connection>
+    <connection from_id="0" to_id="9" drag_x="739.1640625" drag_y="269.767578125" sticker="approval">
+      <style connectiondash="dotted" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100"/>
+      <title>w&#xE4;hlt</title>
+      <note></note>
+    </connection>
+  </connections>
+  <stickers/>
+</minder>
