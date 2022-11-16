@@ -1,24 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="" />
+    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Lückentext und mind- map.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Stoffklasse gesucht.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Beispielaufsatz_Pg1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Beispielaufsatz_Pg2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Bewertungsmatrix Kurzgeschichte.odg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Bewertungsmatrix Kurzgeschichte.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Präsentation_Bewerbungsunterlagen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Verzeichnis_anerkannte_Ausbildungsberufe_2021.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/arbeitsblatt_staerkentest.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/GRW_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Herrschaftssysteme_ Staatsformen im Vergleich.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Verlauf Novemberrevolution_komplett.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Informatik/01_Calliope/calliope.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Informatik/01_Calliope/mini-diagonales_lauflicht.hex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Informatik/01_Calliope/mini-füllung.hex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Informatik/01_Calliope/mini-füllung_invertiert.hex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Informatik/01_Calliope/mini-regen.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Samenpflanzen.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Samenpflanzen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Schreibplan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Schreibplan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/GRW/GRW.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/GRW/GRW.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Geographie/Geographie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geographie/Geographie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Physik/02_Elektronik/Elektronik.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Physik/02_Elektronik/Elektronik.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2HFx2DKhudTjfURqUY9MSuEIPkI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "/home/raphael/Documents/School/Schuljahr_22-23/GRW",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Settings.Markdown"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Schuljahr_22-23/Deutsch" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Schuljahr_22-23" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +100,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Schule" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

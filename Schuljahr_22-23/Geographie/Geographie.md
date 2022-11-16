@@ -3,7 +3,7 @@
 Der Name **Amerika** wurde vom Vornamen des Italieners Amerigo Vespucci (1451-1512)
 abgeleitet, der die Amazonasmündung entdeckte und als erster davon schrieb, dass
 der im Zuge der transatlantischen Fahrten von Christoph Kolumbus entdeckte Erdteil
-nicht Indien oder Asien ist, sondern viemehr ein eigenständiger Erdteil sein könnte. [¹]
+nicht Indien oder Asien ist, sondern vielmehr ein eigenständiger Erdteil sein könnte. [¹]
 
 ![Bild des Doppelkontinents Amerika](Americas_on_the_globe_(white-red).svg)
 
@@ -39,7 +39,7 @@ Ursachen: Hoffnung auf ein besseres Leben, Abschiebung als Sträfling, Hungersn�
 ### Indios (Lateinamerika)
 - Maya
 - Inka
-- Atzteken
+- Azteken
 
 ### Indigene Völker der jetzigen USA (Indianer)
 - Apachen
@@ -65,17 +65,27 @@ Ursachen: Hoffnung auf ein besseres Leben, Abschiebung als Sträfling, Hungersn�
 
 ##### Geschichte
 
-- Kamen warscheinlich aus Nord- durch Mittelamerika
+- Kamen wahrscheinlich aus Nord- durch Mittelamerika
 - 1532 durch Spanier erobert
 
-#### Die Atzteken
+#### Die Azteken
 
 ##### Herkunft
 
-- Kommen aus Atzlan
-- Wie sie dort der Legende nach hinkamen
-> - Wurden von einem Gott geführt
+- Kommen aus Aztlan
+- Wie sie dort der Legende nach hinkamen:
+  - Wurden von einem Gott geführt
 
 ##### Kulturelle Besonderheiten
 
 ##### Religion
+
+#### Die Inuit
+
+Inuit bedeutet soviel wie Mensch
+
+Die Inuit waren lange ein Volk on Nomaden, welches sich hauptsächlich durch Jagd ernährte und meist in Zelten lebte, im Winter jedoch in festen Gebäuden an er Küste.
+Die Inuit wurden seit der Entdeckung von Rohstoffen in der Nähe des Nordpols aus ihren Territorien verdrängt, die Situation verbessert sich jedoch langsam, da z.B. Kanada ihnen eine eigene sich selbst verwaltende Provinz gegeben hat.
+Sie finden nun auch langsam zurück zu ihrer Kultur, welche sie während der Verdrängung durch Kolonisatoren an vielen Stellen verloren hatten.
+
+Aufgaben für 25. 11. 2022: LB/S 16 u. 72 Topografie Großlandschaften

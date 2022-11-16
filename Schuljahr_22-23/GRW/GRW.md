@@ -1,3 +1,5 @@
+# **GRW**
+
 ## **Das Grundgesetz**
 > Grundlage der demokratischen Ordnung in Deutschland
 
@@ -12,7 +14,7 @@ Artikel 1 des Grundgesetzes
 3. Die nachfolgenden Grundrechte binden Gesetzgebung, vollziehende Gewalt und Rechtsprechung als unmittelbar geltendes Recht.
 
 Artikel 1 hat die höchste Bedeutung, da er jedem Bürger die gleichen Rechte zusichert,
-und damit alle gleichstellt, was für die Demokratie essentiell ist.
+und damit alle gleichstellt, was für die Demokratie essenziell ist.
 
 ### 2.
 
@@ -26,20 +28,37 @@ und damit alle gleichstellt, was für die Demokratie essentiell ist.
 8. Das gesamte Schulwesen steht unter Aufsicht des Staates. (Artikel 7, Paragraph 1)
 9. Alle Deutschen haben das Recht, sich ohne Anmeldung oder Erlaubnis friedlich und ohne Waffen zu versammeln. (Artikel 8, Paragraph 1)
 10. Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. (Artikel 12, Paragraph 1)
-11. Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordung. (Artikel 6, Paragraph 1)
+11. Ehe und Familie stehen unter dem besonderen Schutze der staatlichen Ordnung. (Artikel 6, Paragraph 1)
 12. Alle Deutschen haben das Recht, Vereine und Gesellschaften zu bilden. (Artikel 9, Paragraph 1)
-13. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film weren gewährleistet. (Artikel 5, Paragraph 1)
+13. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet. (Artikel 5, Paragraph 1)
 
 ### 3.
 
 #### Artikel 5: Meinungs-, Informations-, und Pressefreiheit; Kunst und Wissenschaft
 
-Dieser Artikel garantiert das Recht eines jeden, seine Meinung frei zu äußern, solange diese nicht im Konflikt mit der Verfassung steht. Er ist für die Demokratie wichtig, da die Demokratie vom Diskurs und von unterschiedlichen Meinungen lebt.
+Dieser Artikel garantiert das Recht eines jeden, seine Meinung frei zu äußern, solange diese nicht im Konflikt mit der Verfassung steht. 
+Er ist für die Demokratie wichtig, da die Demokratie vom Diskurs und von unterschiedlichen Meinungen lebt.
 
 #### Artikel 3: Gleichheit vor dem Gesetz; Gleichberechtigung von Männern und Frauen; Diskriminierungsverbote
 
-Dieser Artikel garantiert jedem Gleichberechtigung und gleiche Behandlung vor dem Gesetz. Er verbietet außerdem die Diskriminierung von Personen anhand von Hautfarbe, Behinderungen o. ä. Er ist für die Demokratie wichtig, da ohne Gleichberechtigung die Regierung nicht für das Volk sprechen kann, da sie nicht das ganze Volk repräsentiert.
+Dieser Artikel garantiert jedem Gleichberechtigung und gleiche Behandlung vor dem Gesetz.
+Er verbietet außerdem die Diskriminierung von Personen anhand von Hautfarbe, Behinderungen o. ä. 
+Er ist für die Demokratie wichtig, da ohne Gleichberechtigung die Regierung nicht für das Volk sprechen kann, da sie nicht das ganze Volk repräsentiert.
 
 #### Artikel 2: Allgemeine Handlungsfreiheit; Freiheit der Person; Recht auf Leben
 
-Dieser Artikel garantiert die freie Entfaltung der Persönlichkeit eines jeden, solange diese nicht Gesetzeswiedrig ist. Er garantiert zudem auch das Recht jedes Menschen auf Freiheit und Leben. Der Artikel ist wichtig, da er garantiert, das Personen nicht ohne Grund eingesperrt oder begrenzt werden dürfen, sondern nur aufgrund geltenden Rechtes belangt werden können, was wichtig ist, um die integrität der Demokratie zu waren und sie nicht in eine Schreckensherrschaft zu verwandeln.
+Dieser Artikel garantiert die freie Entfaltung der Persönlichkeit eines jeden, solange diese nicht gesetzeswidrig ist. 
+Er garantiert zudem auch das Recht jedes Menschen auf Freiheit und Leben. 
+Der Artikel ist wichtig, da er garantiert, dass Personen nicht ohne Grund eingesperrt oder begrenzt werden dürfen, 
+sondern nur aufgrund geltenden Rechtes belangt werden können, was wichtig ist, um die integrität der Demokratie zu waren und sie nicht in eine Schreckensherrschaft zu verwandeln.
+
+## **Gewaltenteilung**
+
+> Ziel: Verhinderung von Machtkonzentration oder Machtmissbrauch \
+> "Erfinder": John Locke und Montesquieu
+
+| Begriff deutsch     | Gesetzgebende Gewalt | Ausführende Gewalt | Rechtsprechende Gewalt |
+|---------------------|----------------------|--------------------|------------------------|
+| Begriff italienisch |                      |                    |                        |
+| Aufgabe             |                      |                    |                        |
+| Beispiele           |                      |                    |                        |
