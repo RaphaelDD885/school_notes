@@ -68,3 +68,114 @@ II) 16x+5b=-4
 
 I) -16x-6y=8
 II) 
+
+## 2. Drogen sind Gesund
+
+### 2.2 Irrationale Zahlen
+
+Die Quadratwurzel einer nicht negativen Zahl y ist diejenige nichtnegative Zahl x, für die gilt:
+- x²=y
+- Notation x=√y
+
+Aus der Def. folgt: √y*√y=y und (-√y*-√y)=y
+
+Verallgemeinerung:
+Die n-te Wurzel einer nichtnegativen Zahl y ist diejenige nichtnegative Zahl x, für die gilt: x<sup>n</sup>=y (n>=2;n∈N)
+
+Notation: x=<sup>n</sup>√y
+
+Bsp.:
+1. 2√49=√49 \
+=7
+2. ³√1000=10
+3. ⁴√81=3
+
+**ACHTUNG!** Das Wurzelziehen (Radizieren) ist die Gegenoperation des Potenzierens.
+
+LB.S.13/7;11
+
+7
+a) 10
+b) 
+c) 4
+d) 0
+e) 10
+f) 0,1
+g) 1/2
+h) 5
+i) 2/3
+j) 1/3
+k) 2
+l) 0,1
+m) 0,4
+n) 0,3
+o) 2
+
+11
+ 6m
+ 3m²
+
+### Rechnen mit Wurzeln
+
+Aus der Def. der Wurzel folgt:
+x=√x*√x
+
+Aus den Potenzgesetzen folgt: 
+x=x<sup>1/2</sup>*x<sup>1/2</sup>
+
+=> x<sup>1/2</sup>=√x
+
+analog:
+`x=³√x*³√x*³√x`
+
+x=x<sup>1/3</sup>*x<sup>1/3</sup>*x<sup>1/3</sup>
+
+=> x<sup>1/3</sup>=√x
+
+**Verallgemeinerung:**
+
+a) 3
+b) 2
+c) 1/2
+d) 125
+e) 
+f) 2
+g) 1/5
+h) 
+
+a<sup>m/n</sup>=...=<sup>n</sup>√a<sup>m</sup>
+
+Merke: Sämtliche Potenzgesetze gelten auch für gebrochene Exponenten.
+
+z.B. √a*√b=a<sup>1/2</sup>*b<sup>1/2</sup>
+
+### Irrationale und reelle Zahlen
+
+#### Reelle Zahlen:
+- Zahlenbereich aus Gebrochenen und Irrationalen Zahlen
+
+#### Irrationale Zahlen
+- Zahlen, welche unbegrenzt viele Nachkommastellen besitzen ohne periodisch zu sein.
+
+Natürliche Zahlen (N) (0, 1023, 4)
+Ganze Zahlen (Z) (alles in N + -3, -7, -1023)
+Rationale Zahlen (Q) (alles in Z + 100/99, -4/3, 1<sup>1/7</sup>, -1/7)
+Reelle Zahlen (R) (alles in Q + √2, π, ℇ, 1,0102030405...)
+
+| Die Zahl ist Element von: | -3   | 0,4  | 16/3 | 10<sup>-1</sup> | 10³ | 2,03 | -(30/6) | -1²  | 0   | 0,123456... |
+|---------------------------|------|------|------|-----------------|-----|------|---------|------|-----|-------------|
+| N                         | nein | nein | nein | nein            | ja  | nein | nein    | nein | ja  | nein        |
+| Z                         | ja   | nein | nein | nein            | ja  | nein | nein    | ja   | ja  | nein        |
+| Q                         | ja   | ja   | ja   | ja              | ja  | ja   | ja      | ja   | ja  | nein        |
+| R                         | ja   | ja   | ja   | ja              | ja  | ja   | ja      | ja   | ja  | ja          |
+
+|                          | f(x)=2x-3                   | g(x)=x⁴                              | h(x)=√x |
+|--------------------------|-----------------------------|--------------------------------------|---------|
+| Definitionsbereich       |                             |                                      |         |
+| Wertebereich             |                             |                                      |         |
+| Nullstellen              | 1,5; 0                      | 0; 0                                 | ?       |
+| Schnittpunkt mit y-Achse | 0; -3                       | 0; 0                                 | 0; 0    |
+| Symmetrie                | Achsensymmetrisch entlang y |                                      |         |
+| Extrema                  |                             |                                      |         |
+| Monotonie                | Steigend                    | Steigend, konstant schwächer werdend |         |
+

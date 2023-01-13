@@ -171,3 +171,80 @@ We scanned the text and looked for participle clauses.
 2. While living in Sydney for six months, I often went surfing.
 3. While attending school in Sydney, I made a lot of friends.
 4. When I took the ferry to Manly, I took photos of Sydney Harbour.
+
+## Consequences of the huge flood in New South Wales (NSW)
+
+- Destruction of Homes
+- Loss of peoples possessions
+- Massive evacuation efforts necessary
+- flooded stores need to throw away their stock
+
+### Australian Slang
+
+| Australian | British                |
+|------------|------------------------|
+| mozzie     | mosquito               |
+| defo       | Definitely             |
+| ambo       | ambulance              |
+| arvo       | afternoon              |
+| prawns     | shrimp                 |
+| exxy       |                        |
+| G'Day      | good day               |
+| mate       | friend                 |
+| barbie     | barbecue               |
+| chocky     | chocolate              |
+| veggo      | vegetarian             |
+| roo        | Kangaroo               |
+| brekky     | Breakfast              |
+| servo      | service/petrol station |
+| prezzie    | present                |
+| straya     |                        |
+| undies     | underpants             |
+| began      | drunk                  |
+| maccas     | McDonalds              |
+| drongo     | idiot                  |
+
+| Australian       | British    |
+|------------------|------------|
+| no worries       | no problem |
+| She'll be right. |            |
+
+
+1. In my opinion, borrowing things from a friend without asking is acceptable. / I think borrowing stuff from fiends without permission is unacceptable.
+2. I agree that gift vouchers are a good present, especially for people who already have everything. / Buying Gift vouchers as presents is not that good, since they aren't very creative.
+3. In my opinion, the statement that children should not have smartphones is agreeable and reasonable, since they don't really need them and just use them for playing games anyway. / I disagree, in my opinion children should have smartphones. \
+
+
+1. 1.5 hours
+2. 4 times
+3. Sydney Opera House, Double Bay, Bradley Head
+4. families, tourists
+5. Circular Quay, Downtown Sydney
+6. Return to departure point
+
+- departure: abfahrt/start
+- duration: fahrzeit/dauer
+- approximate: ungefähr
+
+###### ***16//16//16//16//16//16//16//16//16***
+###### <sub>Captain James Cock</sub>
+ 
+We were caught during this attempt and got arrested taken to court. I was very scared while we awaited our sentence.
+The judge decided to have both of us hang, but my mother persuaded him to change his decision. My father would still hang, but I would only have to spend 14 Years in jail.
+I was sent to Norwich jail, one of the worst prisons in all of Great Britain. There, men women and children were just put into the same jail, and everyone was scared.
+In this prison, I met Susannah, and we fell in love. Soon after, she gave birth to our son. About three years later, the crown wanted to establish a prison colony in Australia, and Susannah was chosen to go there.
+I begged desperately to be allowed to go with her, but they wouldn't let me. This desperate situation got even worse when the captain of the ship that was supposed to transport Susannah to Australia wanted the baby to stay in prison.
+Luckily the coach driver who was supposed to bring the child back to prison decided to go to Lord Sydney instead. Lord Sydney was a good man and decided to let me marry Susannah and let both me and the child go to Australia with me.
+We sailed from Britain to Australia. After 8 months we landed in Botany Bay. The captain did not want to wade through the water, so I carried him to shore on my back.
+I was the first  convict to stand on Australian ground. On the tenth of February 1788 we 
+
+
+## Aborigines
+
+- talking about fence
+- mixed race kids father works on fence
+- Aborigines hunt lizard 
+- find lizard and are happy
+- white police turns up looking for mixed race kids
+- Aborigines hide kids
+

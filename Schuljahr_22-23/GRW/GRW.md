@@ -1,6 +1,6 @@
-# **GRW**
+# GRW
 
-## **Das Grundgesetz**
+## Das Grundgesetz
 > Grundlage der demokratischen Ordnung in Deutschland
 
 ### 1.
@@ -36,29 +36,43 @@ und damit alle gleichstellt, was für die Demokratie essenziell ist.
 
 #### Artikel 5: Meinungs-, Informations-, und Pressefreiheit; Kunst und Wissenschaft
 
-Dieser Artikel garantiert das Recht eines jeden, seine Meinung frei zu äußern, solange diese nicht im Konflikt mit der Verfassung steht. 
-Er ist für die Demokratie wichtig, da die Demokratie vom Diskurs und von unterschiedlichen Meinungen lebt.
+Dieser Artikel garantiert das Recht eines jeden, seine Meinung frei zu äußern, solange diese nicht im Konflikt mit der 
+Verfassung steht. Er ist für die Demokratie wichtig, da die Demokratie vom Diskurs und von unterschiedlichen Meinungen lebt.
 
 #### Artikel 3: Gleichheit vor dem Gesetz; Gleichberechtigung von Männern und Frauen; Diskriminierungsverbote
 
 Dieser Artikel garantiert jedem Gleichberechtigung und gleiche Behandlung vor dem Gesetz.
 Er verbietet außerdem die Diskriminierung von Personen anhand von Hautfarbe, Behinderungen o. ä. 
-Er ist für die Demokratie wichtig, da ohne Gleichberechtigung die Regierung nicht für das Volk sprechen kann, da sie nicht das ganze Volk repräsentiert.
+Er ist für die Demokratie wichtig, da ohne Gleichberechtigung die Regierung nicht für das Volk sprechen kann, da sie 
+nicht das ganze Volk repräsentiert.
 
 #### Artikel 2: Allgemeine Handlungsfreiheit; Freiheit der Person; Recht auf Leben
 
 Dieser Artikel garantiert die freie Entfaltung der Persönlichkeit eines jeden, solange diese nicht gesetzeswidrig ist. 
 Er garantiert zudem auch das Recht jedes Menschen auf Freiheit und Leben. 
 Der Artikel ist wichtig, da er garantiert, dass Personen nicht ohne Grund eingesperrt oder begrenzt werden dürfen, 
-sondern nur aufgrund geltenden Rechtes belangt werden können, was wichtig ist, um die integrität der Demokratie zu waren und sie nicht in eine Schreckensherrschaft zu verwandeln.
+sondern nur aufgrund geltenden Rechtes belangt werden können, was wichtig ist, um die Integrität der Demokratie zu waren
+und sie nicht in eine Schreckensherrschaft zu verwandeln.
 
-## **Gewaltenteilung**
+## Gewaltenteilung
 
 > Ziel: Verhinderung von Machtkonzentration oder Machtmissbrauch \
 > "Erfinder": John Locke und Montesquieu
 
-| Begriff deutsch     | Gesetzgebende Gewalt | Ausführende Gewalt | Rechtsprechende Gewalt |
-|---------------------|----------------------|--------------------|------------------------|
-| Begriff italienisch |                      |                    |                        |
-| Aufgabe             |                      |                    |                        |
-| Beispiele           |                      |                    |                        |
+| Begriff deutsch    | Gesetzgebende Gewalt                        | Ausführende Gewalt  | Rechtsprechende Gewalt                      |
+|--------------------|---------------------------------------------|---------------------|---------------------------------------------|
+| Begriff lateinisch | Legislative                                 | Exekutive           | Judikative                                  |
+| Aufgabe            | Gesetze beschießen / über Gesetze abstimmen | Gesetze durchsetzen | Gesetzesverstöße ahnden und Konflikte lösen |
+| Beispiele          | Deutscher Bundestag, Sächsischer Landtag    | Polizei             | Bundesgerichtshof                           |
+
+## Zentrales Merkmal der Demokratie: <u>Wahlen</u>
+
+### Wahlrechtsgrundsätze
+
+(1) Die Abgeordneten des Deutschen Bundestages werden in allgemeiner, unmittelbarer freier, gleicher und geheimer Wahl
+gewählt. Sie sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen.
+(2) Wahlberechtigt ist, wer das achtzehnte Lebensjahr vollendet hat; wählbar ist, wer das Alter erreicht hat, mit dem die
+Volljährigkeit eintritt.
+(3) Das Nähere bestimmt das Bundesgesetz.
+
+Allgemeinheit, Unmittelbarkeit, Freiheit, Gleichheit, Geheimhaltung

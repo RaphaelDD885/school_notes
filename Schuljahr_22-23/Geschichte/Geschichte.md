@@ -62,3 +62,22 @@ Räterepublik = For einer direkten Demokratie. Vom Volk gewählte Räte üben di
 - Wahl am 19.01. zeigte breites Parteienspektrum, stärkste Kraft wurde die SPD
 - Eröffnung der Nationalversammlung am 06.02. in Weimar: Reichspräsident wurde Ebert, Scheidemann verantwortlich für die Regierungsbildung, „Weimarer Koalition“ aus SPD, Z und DDP stellte Regierung → Weimar wurde als Ort ausgewählt, da Berlin zu unsicher war
 - Verbliebene Räte machten offen Front gegen die neue Regierung → es kam zu einem Bürgerkrieg zwischen Februar und Mai 1919 mit vielen Toten
+
+## SPD
+
+Ausrichtung:
+- gemäßigt links
+
+Ziele:
+- Schutz der Demokratie vor Umstürzen durch andere Parteien
+- Stabilisiertes politisches System
+- Sicherung der Verfassungsmäßigen Grundrechte
+
+Wählerschaft & Milieu:
+- Arbeiter / Akademiker
+
+Haltung zur Republik:
+- akzeptiert die Republik als einzig sinnvolle Regierungsform
+
+Politische Verbündete
+- (USPD)
