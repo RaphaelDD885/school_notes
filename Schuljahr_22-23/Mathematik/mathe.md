@@ -169,13 +169,38 @@ Reelle Zahlen (R) (alles in Q + √2, π, ℇ, 1,0102030405...)
 | Q                         | ja   | ja   | ja   | ja              | ja  | ja   | ja      | ja   | ja  | nein        |
 | R                         | ja   | ja   | ja   | ja              | ja  | ja   | ja      | ja   | ja  | ja          |
 
-|                          | f(x)=2x-3                   | g(x)=x⁴                              | h(x)=√x |
-|--------------------------|-----------------------------|--------------------------------------|---------|
-| Definitionsbereich       |                             |                                      |         |
-| Wertebereich             |                             |                                      |         |
-| Nullstellen              | 1,5; 0                      | 0; 0                                 | ?       |
-| Schnittpunkt mit y-Achse | 0; -3                       | 0; 0                                 | 0; 0    |
-| Symmetrie                | Achsensymmetrisch entlang y |                                      |         |
-| Extrema                  |                             |                                      |         |
-| Monotonie                | Steigend                    | Steigend, konstant schwächer werdend |         |
+|                          | f(x)=2x-3                   | g(x)=x⁴           | h(x)=√x  |
+|--------------------------|-----------------------------|-------------------|----------|
+| Definitionsbereich       |                             |                   |          |
+| Wertebereich             |                             |                   |          |
+| Nullstellen              | 1,5; 0                      | 0; 0              | ?        |
+| Schnittpunkt mit y-Achse | 0; -3                       | 0; 0              | 0; 0     |
+| Symmetrie                | Achsensymmetrisch entlang y |                   |          |
+| Extrema                  |                             |                   |          |
+| Monotonie                | Steigend                    | Fallend bis (0;0) | Steigend |
 
+### Potenzfunktionen
+
+Funktionen des Typs f(x)=x<sup>r</sup>
+
+1. r negativ, gerade
+z.B. 
+2. r negativ, ungerade
+
+3. r positiv, gerade
+
+4. r positiv, ungerade
+
+| Wert               | r negativ, gerade                | r negativ, ungerade                      | r positiv, gerade | r positiv, ungerade |
+|--------------------|----------------------------------|------------------------------------------|-------------------|---------------------|
+| Beispiel           | f(x)=x⁴                          |                                          |                   |                     |
+| Definitionsbereich | x ∈ R; x≠0                       | x ∈ R; x≠0                               | x ∈ R             |                     |
+| Wertebereich       | y ∈ R; y>0                       | y ∈ R; y≠0                               | y ∈ R; y⪭0        |                     |
+| Nullstellen        | keine                            | keine                                    |                   |                     |
+| Schnittpunkt mit y | keine                            | keine                                    |                   |                     |
+| Extrema            | Keine                            | keine                                    |                   |                     |
+| Monotonie          | steigend bis x=0, fallend ab x=0 | fallend                                  |                   |                     |
+| Symmetrie          | Achsensymmetrisch entlang y      | punktsymmetrisch zum Koordinatenursprung |                   |                     |
+
+(r≠1)
+(r≠0)
