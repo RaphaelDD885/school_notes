@@ -183,14 +183,6 @@ Reelle Zahlen (R) (alles in Q + √2, π, ℇ, 1,0102030405...)
 
 Funktionen des Typs f(x)=x<sup>r</sup>
 
-1. r negativ, gerade
-z.B. 
-2. r negativ, ungerade
-
-3. r positiv, gerade
-
-4. r positiv, ungerade
-
 | Wert               | r negativ, gerade                | r negativ, ungerade                      | r positiv, gerade | r positiv, ungerade |
 |--------------------|----------------------------------|------------------------------------------|-------------------|---------------------|
 | Beispiel           | f(x)=x⁴                          |                                          |                   |                     |

@@ -84,3 +84,14 @@ Beim Schmelzen und Lösen im Wasser müssen die Gitterstrukturen überwunden wer
 
 #### Vorkommen, Darstellung, Eigenschaften und Bau von Kohlenstoffdioxid
 
+1. Der natürliche Treibhauseffekt meint das Einfangen von Wärme in der Erdatmosphäre.
+Er entsteht durch die Absorption von Wärme in Gaswolken innerhalb der Atmosphäre (z.B. durch Wasserdampf, Kohlenstoffdioxid oder Methan).
+Ohne den natürlichen Treibhauseffekt würde die Erde stark abkühlen. Die globale Jahresdurchschnittstemperatur würde auf ungefähr -18 °C sinken.
+2. Der Treibhauseffekt wird durch das zusätzliche Freisetzen von Treibhausgasen verstärkt.
+3. Der anthropogene Treibhauseffekt sorgt dafür, dass die Temperatur der Erdatmosphäre stetig ansteigt. Dies sorgt dafür,
+dass intensivere und verheerendere Wetterphänomene entstehen. Zudem sorgt der anthropogene Klimawandel für Massensterben
+im Tierreich, da viele Tiere sich nicht schnell genug an die steigenden Temperaturen anpassen können.
+4. - Entfernung der Menschheit durch Atomwaffen
+   - Verbot von Autos mit Verbrennungsmotor
+   - Förderung von erneuerbaren Energiequellen
+   - Pflanzen von Bäumen um Treibhausgase zu absorbieren

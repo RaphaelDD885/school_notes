@@ -63,7 +63,7 @@ Räterepublik = For einer direkten Demokratie. Vom Volk gewählte Räte üben di
 - Eröffnung der Nationalversammlung am 06.02. in Weimar: Reichspräsident wurde Ebert, Scheidemann verantwortlich für die Regierungsbildung, „Weimarer Koalition“ aus SPD, Z und DDP stellte Regierung → Weimar wurde als Ort ausgewählt, da Berlin zu unsicher war
 - Verbliebene Räte machten offen Front gegen die neue Regierung → es kam zu einem Bürgerkrieg zwischen Februar und Mai 1919 mit vielen Toten
 
-## SPD
+### SPD
 
 Ausrichtung:
 - gemäßigt links
@@ -81,3 +81,7 @@ Haltung zur Republik:
 
 Politische Verbündete
 - (USPD)
+
+## 2.2 Die Krisenjahre der Weimarer Republik
+
+![Bedrohungen_Weimarer_Rep.png](Bedrohungen_Weimarer_Rep.png)

@@ -55,3 +55,5 @@ Diffusion:
   - Grenzfläche, durch die der Stoff diffundiert
   - Diffusionsstrecke
 
+Osmose:
+- die Diffusion von Flüssigkeiten durch eine selektiv permeable Membran

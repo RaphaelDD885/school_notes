@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="Egg">
-      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Physik/induktion.md" afterDir="false" />
+    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="Amogus">
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Bedrohungen-und-Belastungen-für-die-Weimarer-Republik-(1919-1923).minder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Bedrohungen_Weimarer_Rep.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Deutsch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Deutsch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +53,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/raphael/Documents/School/Schuljahr_22-23/GRW&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/raphael/.local/share/applications/Blender.desktop&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -85,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673605109245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Amogus">
+      <created>1673941467506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673941467506</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +119,8 @@
     </ignored-roots>
     <MESSAGE value="HA Fertig" />
     <MESSAGE value="Egg" />
-    <option name="LAST_COMMIT_MESSAGE" value="Egg" />
+    <MESSAGE value="Amogus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amogus" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

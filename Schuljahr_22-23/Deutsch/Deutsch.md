@@ -13,3 +13,9 @@ Die Frauen werden meist mit wesentlich älteren Ehemännern verheiratet, ohne si
 Die Stadt insgesamt wurde von einem Fürsten regiert, der für die Rechtsprechung verantwortlich war. Wer sich nicht an
 Regeln hielt, wurde getötet, verbannt, aus der Gesellschaft ausgeschlossen oder vertrieben.
 
+| Sprachbilder | Bezeichnung | Bedeutung/Wirkung |
+|--------------|-------------|-------------------|
+|              |             |                   |
+|              |             |                   |
+|              |             |                   |
+|              |             |                   |

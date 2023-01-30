@@ -229,7 +229,7 @@ We scanned the text and looked for participle clauses.
 ###### ***16//16//16//16//16//16//16//16//16***
 ###### <sub>Captain James Cock</sub>
  
-We were caught during this attempt and got arrested taken to court. I was very scared while we awaited our sentence.
+We were caught during this attempt and got arrested and taken to court. I was very scared while we awaited our sentence.
 The judge decided to have both of us hang, but my mother persuaded him to change his decision. My father would still hang, but I would only have to spend 14 Years in jail.
 I was sent to Norwich jail, one of the worst prisons in all of Great Britain. There, men women and children were just put into the same jail, and everyone was scared.
 In this prison, I met Susannah, and we fell in love. Soon after, she gave birth to our son. About three years later, the crown wanted to establish a prison colony in Australia, and Susannah was chosen to go there.
