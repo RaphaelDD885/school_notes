@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="Amogus">
-      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Bedrohungen-und-Belastungen-für-die-Weimarer-Republik-(1919-1923).minder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Bedrohungen_Weimarer_Rep.png" afterDir="false" />
+    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="Amogus 2">
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/Potenzfunktionen - Parameter und gemischte Übungen.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Deutsch.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Deutsch/Deutsch.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Mathematik/mathe.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673941467506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Amogus 2">
+      <created>1675063510316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675063510316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +120,8 @@
     <MESSAGE value="HA Fertig" />
     <MESSAGE value="Egg" />
     <MESSAGE value="Amogus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amogus" />
+    <MESSAGE value="Amogus 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Amogus 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
