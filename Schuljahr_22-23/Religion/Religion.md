@@ -81,3 +81,15 @@ Textstellen:
 9. Legende / Wundergeschichte
 10. Ermahnung
 
+### Biblische Darstellungen
+- anthropomorph
+- symbolisch
+
+### Eigene Meinung
+
+Ich habe keine Ahnung wer Gott ist oder ob es ihn überhaupt gibt.
+Es ist meiner Ansicht nach aber nicht unmöglich, dass eine hoch genug entwickelte Zivilisation,
+welche aus unserer Sicht gottgleich wirkt, an der Entwicklung der Menschheit beteiligt war oder es immer noch ist.
+Allerdings kann keiner zu diesem Thema akkurate Aussagen treffen, solange es keine empirischen Beweise für oder gegen Gott gibt.
+Allerdings erkenne ich durchaus an, dass der Glaube an Gott für viele Menschen einen positiven Einfluss auf ihr Leben hat.
+Daher kann ich durchaus verstehen, weshalb viele an ihn glauben.
