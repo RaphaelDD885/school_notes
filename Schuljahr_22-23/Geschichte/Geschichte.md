@@ -85,3 +85,9 @@ Politische Verbündete
 ## 2.2 Die Krisenjahre der Weimarer Republik
 
 ![Bedrohungen_Weimarer_Rep.png](Bedrohungen_Weimarer_Rep.png)
+
+### Die Auswirkungen auf Deutschland
+| wirtschaftlich   | politisch               |
+|------------------|-------------------------|
+| Verschuldung     | Versagen der Demokratie |
+| Arbeitslosigkeit | Radikalisierung         |

@@ -57,3 +57,12 @@ Diffusion:
 
 Osmose:
 - die Diffusion von Flüssigkeiten durch eine selektiv permeable Membran
+
+#### Ort der Wasseraufnahme
+
+Wurzelhaarzellen -> vergrößern die Wurzeloberfläche (bis auf das 12-fache)
+
+sehr kurzlebig (wenige Tage) -> Wurzel muss immer wachsen, um Wasser aufnehmen zu können.
+
+Bau einer Wurzelhaarzelle:
+

@@ -248,3 +248,18 @@ I was the first  convict to stand on Australian ground. On the tenth of February
 - white police turns up looking for mixed race kids
 - Aborigines hide kids
 
+Pg.28/2
+a)
+1 Australian rules football is a game played between ...
+2 The Sydney Swans are an ARF team formed in th 19th century.
+3 Swans player Adam Goodes twice won the Brownlow Medal, an award given annually to the fairest and best ARF player.
+4 When asked how he felt about winning twice, Goodes said he was happy because his mom was proud of him.
+5 Goodes became Australian of the Year at ceremony held in Canberra in January 2015.
+6 In a speech reported in most papers, Goodes spoke about his Aboriginal identity.
+7 When criticized for his strong stand against racism, Goodes said that speaking out is better than saying nothing.
+
+b)
+1 When chosen for the Australian team in 1992, Cathy Freeman was the first Aboriginal woman to take part in the Olympic Games.
+2 She took part again in 1996, winning a silver medal in the Atlanta Olympics.
+3 In Sydney in 2000, she lit the Olympic Torch in a ceremony watched around the world.  
+4 She was first in the 400 meters, becoming the second Aboriginal Australian to win gold.

@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="Amogus 3">
+    <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="31. Jan 2023">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Bio/Biologie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/English/English.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Geschichte/Geschichte.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Musik/Musik.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Musik/Musik.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Religion/Religion.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Religion/Religion.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675148825583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="31. Jan 2023">
+      <created>1675156801507</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675156801507</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,7 +140,8 @@
     <MESSAGE value="Amogus" />
     <MESSAGE value="Amogus 2" />
     <MESSAGE value="Amogus 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amogus 3" />
+    <MESSAGE value="31. Jan 2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="31. Jan 2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

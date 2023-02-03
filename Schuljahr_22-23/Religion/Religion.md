@@ -19,7 +19,7 @@ Buddha = "Der Erleuchtete"
 
 #### Der achtfache Pfad
 
-[Text](file:///home/raphael/Documents/School/Schuljahr_22-23/Religion/2_Text_Der achtfache Pfad.pdf)
+[Text](file:///home/raphael/Documents/School/Schuljahr_22-23/Religion/2_Text_Der%20achtfache%20Pfad.pdf)
 
 1. Rechter Glaube
     - Anerkennung der 4 edlen Wahrheiten
@@ -45,3 +45,39 @@ Buddha = "Der Erleuchtete"
 8. Rechtes Versenken
     - Verharren fern von Begierden
     - Grenze zum Nirvana erreicht -> Erleuchtung/Erlösung
+
+## Möglichkeiten und Grenzen der Rede von Gott
+
+### Wege des Redens von Gott
+| via negativa (Weg der Negation)  | via eminentiae (Weg der Erhöhung) | via analogica (Weg des eingeschränkten Vergleichs) |
+|----------------------------------|-----------------------------------|----------------------------------------------------|
+| Gott ist kein alter weiser Mann. | mächtig                           | wie ein Vater, der seine Kinder nie vergisst       |
+| Er besitzt keinen Körper.        | allmächtig                        | Richter                                            |
+|                                  | überall                           | Vater                                              |
+|                                  | allgegenwärtig                    | Vater & Mutter zugleich                            |
+|                                  | allwissend                        |                                                    |
+
+### Sprachformen in der Bibel
+- **Wundergeschichte**
+- **Lob-psalm**
+- **Hymnus**: Festlicher Lobgesang zu Gottes Ehren
+- **Gleichnis**
+- **Mythos**: Wissenschaftlich und geschichtlich inakkurate Beschreibung eines Ereignisses außerhalb der Zeitrechnung
+- **Legende**: Lebensgeschichten Heiliger, die häufig stark ausgeschmückt und verändert werden, um einem religiösen Narrativ zu dienen
+- **Vision**: Nacherzählung einer Religiösen Erscheinung
+- **Klagepsalm**
+- **weisheitlicher Spruch**: Grundgattung der weisheitlichen Literatur des AT, zum Ermahnen, Rat Erteilen oder Weisung Geben
+- **Ermahnung**
+
+Textstellen:
+1. Lob-psalm
+2. Klagepsalm
+3. Wundergeschichte
+4. weisheitlicher Spruch
+5. Vision
+6. Mythos
+7. Legende / Wundergeschichte
+8. Gleichnis
+9. Legende / Wundergeschichte
+10. Ermahnung
+
