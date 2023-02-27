@@ -95,3 +95,35 @@ im Tierreich, da viele Tiere sich nicht schnell genug an die steigenden Temperat
    - Verbot von Autos mit Verbrennungsmotor
    - Förderung von erneuerbaren Energiequellen
    - Pflanzen von Bäumen um Treibhausgase zu absorbieren
+
+## Chemisches Rechnen
+
+### Chemische Grundgesetze
+
+Stöchiometrisches Rechnen bedeutet Rechnen gemäß der chem. Grundgesetze:
+1. **Gesetz von der Erhaltung der Masse**: Die Summe der Masse der Edukte entspricht der Masse der Produkte exakt
+2. **Gesetz der konstanten Proportionen**: Die Teilchen können sich nur in bestimmten Massenverhältnissen miteinander verbinden.
+
+### Die Stoffmenge
+
+Einheit: Mol(mol) 600 Trilliarden Atome = 1 mol
+
+Formelzeichen: n
+
+Die Stoffmenge ist eine physikalische Größe, die die Zählbarkeit von Teilchen kennzeichnet.
+Die Anzahl von 6*10<sup>23</sup> gleichen Teilchen entspricht einer Stoffmenge von einem Mol.
+
+N = Teilchenanzahl
+
+<sub>A</sub> = Avogadro-Konstante
+
+N=n*N<sub>A</sub>
+
+| Stoff          | Symbol:K                        | Stoffmenge | Teilchenanzahl      |
+|----------------|---------------------------------|------------|---------------------|
+| Magnesium      | 2 Mg                            | 2 mol      | 1,2*10<sup>24</sup> |
+| Wasser         | 6 H<sub>2</sub>O                | 6 mol      |                     |
+| Helium         | 4 He                            | 4 mol      | 2,4*10<sup>24</sup> |
+| Phosphorsäure  | 0,3 H<sub>3</sub>PO<sub>4</sub> | 0,3 mol    | 1,8*10<sup>23</sup> |
+| Natriumchlorid | NaCl                            |            | 3*10<sup>22</sup>   |
+|                | 2,5 NO<sub>2</sub>              | 2,5 mol    |                     |

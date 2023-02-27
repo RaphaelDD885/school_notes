@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="696a7b3c-2271-433d-96bf-4ea62a07f36d" name="Changes" comment="3. Feb. 2023">
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Die Stoffmenge .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Max möchte Sand verkaufen.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Übung n,m,M 2023.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Religion/Religion.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Religion/Religion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" beforeDir="false" afterPath="$PROJECT_DIR$/Schuljahr_22-23/Chemie/Chemie.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675410282236</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="3. Feb. 2023">
+      <created>1675412357644</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675412357644</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
