@@ -52,7 +52,7 @@ Räterepublik = For einer direkten Demokratie. Vom Volk gewählte Räte üben di
 - Flucht Wilhelm II. ins holländische Exil
 - Bildung einer provisorischen Regierung aus SPD- und USPD-Mitgliedern ("Rat der Volksbeauftragten") unter Führung von **Friedrich Ebert** (SPD)
 - Unterzeichnung des **Ebert-Groener-Bündnis** → um die Ordnung und Sicherheit zu gewährleisten sowie linksradikale Umsturzversuche zu verhindern, schloss die SPD mit dem Militär ein Abkommen, das den Schutz des Staates sicherstellte und gleichzeitig eine Einmischung der Politik in die Belange des Militärs verhindern sollte (→ führt zu Spaltung zwischen gemäßigten und radikalen Linken)
-- 11.11.1918: Matthias Erzberger (Zentrum) muss als Vertreter der dt. Verhandlungskommission die polit. Verantwortung übernehmen und unterzeichnet den vorgelegten Waffenstillstandsvertrag der Entente-Staaten in Compiegne
+- 11.11.1918: Matthias Erzberger (Zentrum) muss als Vertreter der dt. Verhandlungskommission die politische Verantwortung übernehmen und unterzeichnet den vorgelegten Waffenstillstandsvertrag der Entente-Staaten in Compiegne
 - Gründung der „Zentralarbeitsgemeinschaft“ (auch Stinnes-Legien-Abkommen genannt) am 15/11/1918 beschlossen → Anerkennung der Gewerkschaften, 8h-Tag bei vollem Lohnausgleich, Sozialpartnerschaft zwischen Arbeitnehmern und Arbeitgebern
 - Reichsrätekongress aller deutschen Räte vom 16.-20.12. („Radikale“ wie Liebknecht und Luxemburg ausgeschlossen) → Einigung auf Wahltermin zur Nationalversammlung und Ablehnung des Rätesystems (allerdings Demokratisierung vieler Bereiche wie Militär und Verwaltung gefordert)
 - Austritt der USPD-Mitglieder aus dem Rat der Volksbeauftragten am 28.12.1918
@@ -82,6 +82,8 @@ Haltung zur Republik:
 Politische Verbündete
 - (USPD)
 
+---
+
 ## 2.2 Die Krisenjahre der Weimarer Republik
 
 ![Bedrohungen_Weimarer_Rep.png](Bedrohungen_Weimarer_Rep.png)
@@ -91,3 +93,15 @@ Politische Verbündete
 |------------------|-------------------------|
 | Verschuldung     | Versagen der Demokratie |
 | Arbeitslosigkeit | Radikalisierung         |
+
+
+---
+
+
+# 3. Die nationalsozialistische Diktatur in Deutschland und Europa (1933-1945)
+
+## 3.1 Hintergründe der Ernennung
+
+### Was ermöglichte die Kanzlerschaft Hitlers?
+
+- Franz von Papen, der versuchte, Hitler als Juniorpartner zu nutzen.

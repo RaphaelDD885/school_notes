@@ -127,3 +127,35 @@ N=n*N<sub>A</sub>
 | Phosphorsäure  | 0,3 H<sub>3</sub>PO<sub>4</sub> | 0,3 mol    | 1,8*10<sup>23</sup> |
 | Natriumchlorid | NaCl                            |            | 3*10<sup>22</sup>   |
 |                | 2,5 NO<sub>2</sub>              | 2,5 mol    |                     |
+
+### Massenberechnungen bei chem. Reaktionen
+
+**Aufgabe:**
+Berechne die Masse Magnesiumoxid, die bei der Verbrennung von 10g Magnesium entsteht.
+
+1. Reakionsgleichung aufstellen: 2 Mg + O<sub>2</sub> -> 2 MgO
+2. gegeben und gesucht: geg.: m<sub>Mg</sub> = 10g ges.: m<sub>MgO</sub>
+3. Größengleichung m<sub>MgO</sub> / m<sub>Mg</sub> = M<sub>MgO</sub> * n<sub>MgO</sub> / M<sub>Mg</sub> * n<sub>Mg</sub>
+4. Einsetzen: m<sub>MgO</sub> / 10g = 40 g/mol * 2mol / 24 g/mol * 2mol
+5. Kürzen und Ausrechnen: m<sub>MgO</sub> / 10g = 40 / 42 -> m<sub>MgO</sub> = 16,6g
+6. Antwortsatz: Bei der Verbrennung von 10g Magnesium entstehen rund 16,6g Magnesiumoxid.
+
+**Aufgabe 2:**
+Berechne die Masse Aluminium, die eingesetzt werden muss, um 75g Eisen(II)-oxid zu Eisen zu reduzieren.
+
+1. 3 FeO + 2 Al -> 3 Fe + Al<sub>2</sub>O<sub>3</sub>
+2. geg.: m<sub>FeO</sub> = 75g ges.: m<sub>Al</sub>
+3. m<sub>Al</sub> / m<sub>FeO</sub> = M<sub>Al</sub> * n<sub>Al</sub> / M<sub>FeO</sub> * n<sub>FeO</sub>
+4. m<sub>Al</sub> / 75g = 27 g/mol * 2 mol / 72 g/mol * 3 mol -> m<sub>Al</sub>= 18,8g
+5. Um 75g Eisen(II)-oxid zu Eisen zu reduzieren werden 18,8g Aluminium benötigt.
+
+**Aufgabe 3:** 
+Berechne die Masse Kohlenstoffdioxid, die bei der verbrennung von 5g Feuerzeuggas (C<sub>4</sub>H<sub>10</sub>) entsteht.
+
+1. 2 C<sub>4</sub>H<sub>10</sub> + 13 O = 8 CO<sub>2</sub> + 10 H<sub>2</sub>O
+2. geg.: m<sub>C<sub>4</sub>H<sub>10</sub></sub> = 5g ges.: m<sub>CO<sub>2</sub></sub>
+3. m<sub>CO<sub>2</sub></sub> / m<sub>C<sub>4</sub>H<sub>10</sub></sub> = M<sub>CO<sub>2</sub></sub> * n<sub>CO<sub>2</sub></sub> / M<sub>C<sub>4</sub>H<sub>10</sub></sub> + n<sub>C<sub>4</sub>H<sub>10</sub></sub>
+4. m<sub>CO<sub>2</sub></sub> / 5g = 44 g/mol * 8 mol / 58,1 * 2 mol
+5. m<sub>CO<sub>2</sub></sub> / 5g = 44 g/mol * 8 mol / 58,1 * 2 mol ->
+
+**HA:** AH S.36/5&6

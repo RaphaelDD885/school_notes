@@ -196,3 +196,48 @@ Funktionen des Typs f(x)=x<sup>r</sup>
 
 (r≠1)
 (r≠0)
+
+Mathe KA 21/03/2023 Themen Potenzfunktionen & Quadratische Funktionen (Graphen Zeichnen, Rechnen & Merkmale, Scheitelpunktform)
+
+## Nullstellenberechnung quadratischer Funktionen
+
+Herleitung der p-q-Formel:
+
+f(x) = x² + px + q
+
+0 = x² + px + q | -q
+
+0 - q = x² + px | +(p/2)²
+
+-q + (p/2)² = x²  + px + (p/2)² | bin. Formel 1
+
+-q + (p/2)² = (x + p/2)² | ±√
+
+±√-q+(p/2)² = x<sub>1|2</sub>+p/2 | -p/2
+
+**x<sub>1|2</sub>-p/2±√(p/2)²-q**
+
+![img.png](img.png)
+
+Bsp.:  
+
+f(x) = x² + 8x - 7  (p=8,q=7)
+
+x<sub>1|2</sub> = -p/2 ±√(p/2)² - (-q)
+
+x<sub>1|2</sub> = -8/2 ±√(8/2)² - (-7)
+
+x<sub>1|2</sub> = -4 ±√16+7
+
+x<sub>1|2</sub> = -4 ±√23
+
+x<sub>1</sub> = -4 + √23
+
+x<sub>2</sub> = -4 - √23
+
+## Lösen quadratischer Gleichungen
+
+**Hinweis: Umformen zu 0=**
+
+
+

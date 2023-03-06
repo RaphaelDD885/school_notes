@@ -66,3 +66,14 @@ sehr kurzlebig (wenige Tage) -> Wurzel muss immer wachsen, um Wasser aufnehmen z
 
 Bau einer Wurzelhaarzelle:
 
+## Die Sprossachse
+
+### Leitbündel
+
+#### Aufbau der Leitbündel
+
+Die Zellwände der Leitbündelgefäße bestehen aus Lignin und sind verdickt um die Stabilität zu erhöhen.
+
+| Aufbau | Funktion |
+|--------|----------|
+

@@ -93,3 +93,11 @@ welche aus unserer Sicht gottgleich wirkt, an der Entwicklung der Menschheit bet
 Allerdings kann keiner zu diesem Thema akkurate Aussagen treffen, solange es keine empirischen Beweise für oder gegen Gott gibt.
 Allerdings erkenne ich durchaus an, dass der Glaube an Gott für viele Menschen einen positiven Einfluss auf ihr Leben hat.
 Daher kann ich durchaus verstehen, weshalb viele an ihn glauben.
+
+## Kirche in verschiedenen Systemen
+
+### Diakonisches Handeln
+
+Das dem diakonischen Handeln zugrunde liegende Menschenbild geht davon aus, dass der Mensch grundsätzlich gut und hilfsbereit ist.
+Diakonisches Handeln verlangt vom Menschen, sich für andere einzusetzen und ihnen zu helfen, ohne dafür etwas zurückzubekommen.
+Man hilft also einfach um des Helfens willen und erwartet keine Gegenleistung.

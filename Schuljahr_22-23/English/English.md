@@ -263,3 +263,12 @@ b)
 2 She took part again in 1996, winning a silver medal in the Atlanta Olympics.
 3 In Sydney in 2000, she lit the Olympic Torch in a ceremony watched around the world.  
 4 She was first in the 400 meters, becoming the second Aboriginal Australian to win gold.
+
+Other names/nicknames: footie, aussie rules
+Shape & size of field: round,  size more than soccer field
+Shape of ball: egg
+Number of players: 18 per team + 4 on bench
+Object of the game: move ball down field & score
+Ways to move the ball: kicking, running (bounce every 16 yards), fisting
+Points for goal: 6 pts, 1 pt for behind
+Playing time: 4 20 min quarters + extra time 
